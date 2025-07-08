@@ -4,7 +4,8 @@
 
 <br>
 <h1 align="center">
-  ⭐ React Native Dropdown Select List </h1>
+  ⭐ React Native Dropdown Select List | Fork by Llomen for better Props
+</h1>
 
 <div align="center">
 
